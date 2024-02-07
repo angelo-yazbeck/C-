@@ -1,0 +1,9 @@
+﻿  MD5.cpp
+D:\uni\UNIIIIII\semester 6\proj prog 2.txt\proj prog 2\MD5.cpp(116,37): warning C4267: 'argument': conversion from 'size_t' to 'MD5::size_type', possible loss of data
+  proj prog 2.cpp
+D:\uni\UNIIIIII\semester 6\proj prog 2.txt\proj prog 2\proj prog 2.cpp(79,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+D:\uni\UNIIIIII\semester 6\proj prog 2.txt\proj prog 2\proj prog 2.cpp(86,47): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+D:\uni\UNIIIIII\semester 6\proj prog 2.txt\proj prog 2\proj prog 2.cpp(86,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Generating Code...
+D:\uni\UNIIIIII\semester 6\proj prog 2.txt\proj prog 2\proj prog 2.cpp(391): warning C4715: 'coursename': not all control paths return a value
+  proj prog 2.vcxproj -> D:\uni\UNIIIIII\semester 6\proj prog 2.txt\x64\Debug\proj prog 2.exe

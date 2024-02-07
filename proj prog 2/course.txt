@@ -1,0 +1,4 @@
+CS001        Calculus        4
+CS002        Database        4
+CS003        OperatingSystem        3
+CS004        programming2        3

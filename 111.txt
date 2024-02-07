@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+-std 
+
+If you would like to check your grades press 1 -
+If you would like to see your order in a class input 2 
+If you would like to check your GPA input 3 -
+If you would like to check your grade for a class input 4 -
+If you would like to see your courses in terms of grades input 5  -
+If you would like to add a proposition for a problem input 6  -
+
+
+
+-Admin
+If you would like to add a student input 1 -
+If you would like to update a grade input 2 - 
+If you would like to remove a student input 3 - 
+If you would like to see the sudents in order of gpa input 4-
+If you would like to calculate the average of a course for all students input 5-
+
+
+
+
+-french
+std 
+
+If you would like to check your grades press 1 - 
+If you would like to see your order in a class input 2 
+If you would like to check your GPA input 3 -
+If you would like to check your grade for a class input 4 - 
+If you would like to see your courses in terms of grades input 5 -
+If you would like to add a proposition for a problem input 6 -
+
+
+
+-Add csv files
+
+
